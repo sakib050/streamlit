@@ -1,0 +1,18 @@
+
+*** Modified files in JOE when it aborted on Mon Sep 26 16:26:05 2022
+*** JOE was aborted by signal 1
+
+*** File '/home/dhrubo006/Desktop/streamlit/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   data/.~lock.taxi_data.csv#
+#	modified:   data/taxi_data.csv
+#	modified:   main.py
+#
+git commit -m 'second commit'
